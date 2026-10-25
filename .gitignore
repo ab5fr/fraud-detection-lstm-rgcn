@@ -1,0 +1,11 @@
+# only lstm/ and rgcn/ are tracked
+/*
+!/.gitignore
+!/README.md
+!/lstm/
+!/rgcn/
+
+*.parquet
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
